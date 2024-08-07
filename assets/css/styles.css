@@ -15,7 +15,7 @@ div.app {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #276c8c
+    background-color: #314048
 }
 
 div.clock {
@@ -26,7 +26,7 @@ div.clock {
     align-items: center;
     position: relative;
     cursor: pointer;
-    background: url(../img/clock.png);
+    background: url(../../img/clock.png);
     background-size: cover;
     border: 4px solid #091921;
     border-radius: 50%;
